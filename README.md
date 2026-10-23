@@ -1,0 +1,2 @@
+# DEVICE_AIDEPLOY
+智能识别项目
